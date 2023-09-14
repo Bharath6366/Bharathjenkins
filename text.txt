@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0695-0DCC
+
+ Directory of C:\Java
+
+14-09-2023  12:08 PM    <DIR>          .
+14-09-2023  11:14 AM               481 helloworld.class
+14-09-2023  11:13 AM               139 helloworld.java
+14-09-2023  12:08 PM               397 read.txt
+14-09-2023  12:08 PM                 0 text.txt
+               4 File(s)          1,017 bytes
+               1 Dir(s)  39,327,453,184 bytes free
